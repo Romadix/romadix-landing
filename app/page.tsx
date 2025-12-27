@@ -397,9 +397,9 @@ export default function Home() {
                        <div className="pl-4">]</div>
                        <div>{`});`}</div>
                        <div className="mt-2"></div>
-                       <div><span className="text-[#6a9955]">// Auto-corrections applied</span></div>
-                       <div><span className="text-[#6a9955]">// Response: {`{`} status: 'validated',</span></div>
-                       <div><span className="text-[#6a9955]">//            corrections: ['Added Modifier 25'] {`}`}</span></div>
+                       <div><span className="text-[#6a9955]">{`// Auto-corrections applied`}</span></div>
+                       <div><span className="text-[#6a9955]">{`// Response: { status: 'validated',`}</span></div>
+                       <div><span className="text-[#6a9955]">{`//            corrections: ['Added Modifier 25'] }`}</span></div>
                     </div>
                   </div>
                </div>
